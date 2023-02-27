@@ -43,11 +43,11 @@ public class Main {
 //            System.out.println(numeroInicio);
 //        }
 
-//        while(numeroInicio<=numeroFin) {
-//            if(soloPares &&((numeroInicio % 2) == 0)){
-//                System.out.println(numeroInicio);
-//            }
-//        }
+        while(numeroInicio<=numeroFin) {
+            if(soloPares &&((numeroInicio % 2) == 0)){
+                System.out.println(numeroInicio);
+            }
+        }
 
         /* Ejer1 d */
 /*        int numeroInicio= 1;
