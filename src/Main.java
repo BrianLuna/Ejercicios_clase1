@@ -57,20 +57,20 @@ public class Main {
         }*/
 
         /* Ejercicio 2*/
-//        int ingresosMax= 489083;
-//        int vehiculosMax= 3;
-//        int inmueblesMax= 3;
-//
-//        int ingresosUsuario= 190000;
-//        int vehiculosUsuario= 2;
-//        int inmueblesUsuario= 2;
-//        boolean activosSocietarios = false;
-//
-//        if((ingresosUsuario>=ingresosMax) || (vehiculosUsuario>=vehiculosMax) || (inmueblesUsuario>=inmueblesMax) || activosSocietarios){
-//            System.out.println("Pertenece al Segmento alto");
-//        }
-//        else{
-//            System.out.println("No pertenece al Segmento alto");
-//        }
+        int ingresosMax= 489083;
+        int vehiculosMax= 3;
+        int inmueblesMax= 3;
+
+        int ingresosUsuario= 190000;
+        int vehiculosUsuario= 2;
+        int inmueblesUsuario= 2;
+        boolean activosSocietarios = false;
+
+        if((ingresosUsuario>=ingresosMax) || (vehiculosUsuario>=vehiculosMax) || (inmueblesUsuario>=inmueblesMax) || activosSocietarios){
+            System.out.println("Pertenece al Segmento alto");
+        }
+        else{
+            System.out.println("No pertenece al Segmento alto");
+        }
     }
 }
