@@ -2,13 +2,13 @@ public class Main {
     public static void main(String[] args) {
         /* Ejer1 a */
 
-        int numeroInicio= 9;
+        /*int numeroInicio= 9;
         int numeroFin= 7;
         int numeroActual = numeroInicio;
         while(numeroActual<=numeroFin){
             System.out.println(numeroActual);
             numeroActual++;
-        }
+        }*/
 
         /* Ejer1 b */
        /* int numeroInicio= 1;
